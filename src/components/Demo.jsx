@@ -138,7 +138,7 @@ const Demo = () => {
           src={github}
           alt="github-icon"
           onClick={() =>
-            window.open("https://www.linkedin.com/in/brunohappi17/")
+            window.open("https://github.com/brunoCo-de/AI-Summerland")
           }
           className="cursor-pointer relative  my-2 mr-3 w-5 gap-3 "
         />

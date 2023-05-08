@@ -1,0 +1,10 @@
+# Ignore build artifacts
+build/
+dist/
+*.log
+
+# Ignore editor and system files
+.vscode/
+.DS_Store
+.env
+node_modules/
